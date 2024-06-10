@@ -1,0 +1,36 @@
+{
+  "name": "name-shuffler",
+  "version": "1.0.0",
+  "description": "This module provides functions to creatively shuffle and generate names. It can be used for generating random names (useful for test data creation, populating mockups, or creating placeholder content), creative brainstorming (can help spark ideas by providing unexpected name combinations), game development (generating dynamic in-game names or titles) and anything else you imagine!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThomasFarstrike/name-shuffler.git"
+  },
+  "keywords": [
+    "nodejs",
+    "npm",
+    "name",
+    "generation",
+    "name",
+    "shuffler",
+    "creativity",
+    "idea",
+    "generation"
+  ],
+  "author": "Thomas Farstrike",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ThomasFarstrike/name-shuffler/issues"
+  },
+  "homepage": "https://github.com/ThomasFarstrike/name-shuffler#readme",
+  "dependencies": {
+    "jest": "^29.7.0"
+  },
+  "devDependencies": {
+    "seedrandom": "^3.0.5"
+  }
+}
